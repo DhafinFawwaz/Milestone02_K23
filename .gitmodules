@@ -1,9 +1,9 @@
 [submodule "ITBCafeteriaServer"]
-	path = ITBCafeteriaServer
+	path = src/ITBCafeteriaServer
 	url = https://github.com/DhafinFawwaz/ITBCafeteriaServer.git
 [submodule "ITBCafeteriaConsumer"]
-	path = ITBCafeteriaConsumer
+	path = src/ITBCafeteriaConsumer
 	url = https://github.com/DhafinFawwaz/ITBCafeteriaConsumer.git
 [submodule "ITBCafeteriaSeller"]
-	path = ITBCafeteriaSeller
+	path = src/ITBCafeteriaSeller
 	url = https://github.com/DhafinFawwaz/ITBCafeteriaSeller.git
