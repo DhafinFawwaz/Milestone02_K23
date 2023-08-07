@@ -2,6 +2,12 @@
 
 Aplikasi untuk pesan makanan di kantin ITB biar gk kepadatan di kantin dan jadi gk sempat makan. Dibuat untuk tugas osjur. Terdapat repository ini terdapat aplikasi untuk pengguna, aplikasi untuk penjual, serta REST API untuk backend.
 
+Wireframing dan prototype UI dibuat dalam figma, sedangkan aplikasi dikembangkan menggunakan framework flutter. Aplikasi dibagi menjadi dua, yaitu aplikasi pengguna dan penjual. Flowchart pengembangan aplikasi, user flow pembeli, dan user flow penjual dibuat di dalam figma.
+
+[Link figma](https://www.figma.com/file/6aNXHHnhEHSo27SRztPKIB/Aplikasi-Kantin?type=design&node-id=79%3A174&mode=design&t=TbAjhhIUis6MolRT-1)
+
+
+
 Kelompok 23
 - (19622099) Dhafin Fawwaz Ikramullah
 - (19622172) Ariel Herfrison
