@@ -1,8 +1,8 @@
 <h1 align="center">ITBCafeteria</h1>
 
-Aplikasi untuk pesan makanan di kantin ITB biar gk kepadatan di kantin dan jadi gk sempat makan. Dibuat untuk tugas osjur. Terdapat repository ini terdapat aplikasi untuk pengguna, aplikasi untuk penjual, serta REST API untuk backend.
+ITBCafeteria adalah aplikasi untuk memeesan makanan di kantin ITB untuk mengurangi kepadatan di kantin dan agar semua orang dapat mengonsumsi makanan dan minuman di kantin ITB. Proyek ini dibuat untuk tugas osjur. Pada repository ini terdapat aplikasi untuk pengguna, aplikasi untuk penjual, serta REST API untuk backend.
 
-Wireframing dan prototype UI dibuat dalam figma, sedangkan aplikasi dikembangkan menggunakan framework flutter. Aplikasi dibagi menjadi dua, yaitu aplikasi pengguna dan penjual. Flowchart pengembangan aplikasi, user flow pembeli, dan user flow penjual dibuat di dalam figma.
+Wireframing dan prototype UI dibuat menggunakan Figma, sedangkan aplikasi dikembangkan menggunakan framework Flutter. Aplikasi dibagi menjadi dua, yaitu aplikasi pengguna dan penjual. Flowchart pengembangan aplikasi, user flow pembeli, dan user flow penjual dibuat menggunakan Figma.
 
 [Link figma](https://www.figma.com/file/6aNXHHnhEHSo27SRztPKIB/Aplikasi-Kantin?type=design&node-id=79%3A174&mode=design&t=TbAjhhIUis6MolRT-1)
 
